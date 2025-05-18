@@ -1,0 +1,17 @@
+Langkah-Langkah Penggunaan:
+1. Ekstrak file pets.zip
+2. Buat database dengan nama peliharaan
+3. Import database peliharaan(1).sql ke dalam database peliharaan yang sudah dibuat
+4. Copy folder sekolah beserta seluruh isinya ke folder laragon\www\pets sehingga akan struktur folder akan menjadi laragon\www\pets
+
+admin:
+username: admin
+password: 1
+
+dokter:
+username: dokter
+password: 1
+
+owner:
+username: owner
+password: 1
